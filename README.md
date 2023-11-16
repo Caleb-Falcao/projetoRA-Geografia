@@ -1,2 +1,2 @@
-# Projeto RA Geografia
+# Projeto RA
 Projeto para geografia
